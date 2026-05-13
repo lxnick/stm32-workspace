@@ -13,6 +13,8 @@
 
 .metadata/
 .settings/language.settings.xml
+.settings/org.eclipse.core.resources.prefs
+.settings/stm32cubeide.project.prefs
 
 # ============================================================
 # Build
@@ -23,6 +25,8 @@ Release/
 
 **/Debug/
 **/Release/
+
+*.launch
 
 # ============================================================
 # Objects
